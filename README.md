@@ -50,6 +50,21 @@
 - Symmetric Encryption during datatransfer.
 
 ## Screenshots
+### Encryption
+![img.png](Images/img.png)
+### Client Connection
+![img_1.png](Images/img_1.png)
+### Money Tranfer 
+![img_2.png](Images/img_2.png)
+### Running Server With One Client
+![img_3.png](Images/img_3.png)
+### Client Side Login Page
+Kinda gay I know
+
+![img_4.png](Images/img_4.png)
+### A Random Snippet
+![img_5.png](Images/img_5.png)
+- There are many more pages and features not shown here, if you are genuinely interested in it you can fork the repo and check it out yourself.
 
 ## Known Issues
 - The TCP/IP protocol implementation in the project is a custom implementation, and as such, it may fail to run properly once every ten times.
