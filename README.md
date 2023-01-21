@@ -41,8 +41,10 @@
 1. Clone the repository from the git.
 2. Open the project in **QT Creator**.
 3. Build the project using the **QMake compilation agent**.
-4. For the Server open the server folder and run the server's C++ file.
-5. Now you can run the QT client file.
+4. For the Server open the server folder.
+5. Build the C++ files.
+6. Run the Server.
+7. Now you can run the QT client.
 
 ## Additional Features
 - Server-Client Model using Socket Programming.
