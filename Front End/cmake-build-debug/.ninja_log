@@ -1,0 +1,11 @@
+# ninja log v5
+17	1673	6748625743980682	CMakeFiles/Server.dir/Server/MainSocket.cpp.obj	c34e489c3c46f4d2
+19	1722	6748625744459068	CMakeFiles/Server.dir/Server/MainServer.cpp.obj	3ccb9868ba190e9e
+0	2099	6748625748229992	CMakeFiles/Server.dir/Server/Communicator.cpp.obj	1b7196b04c25142b
+14	2271	6748625749886406	CMakeFiles/Server.dir/Server/main2.cpp.obj	56b408883962a55e
+2271	2407	6748625751287917	Server.exe	9702a622480e10d2
+17	1724	6748629432907341	CMakeFiles/Client.dir/Client/MainClient.cpp.obj	ffc12704cb13c5da
+19	1742	6748629433102598	CMakeFiles/Client.dir/Client/MainSocket.cpp.obj	7df80c9baaeb2b23
+15	2118	6748629436864081	CMakeFiles/Client.dir/Client/Communicator.cpp.obj	5eef7caac6b995e7
+0	2188	6748629437566366	CMakeFiles/Client.dir/Client/main2.cpp.obj	a0232db45e79bcc9
+2189	2334	6748629439002686	Client.exe	fb62f38eff3e30e

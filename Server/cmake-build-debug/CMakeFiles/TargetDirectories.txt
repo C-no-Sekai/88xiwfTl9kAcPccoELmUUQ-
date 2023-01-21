@@ -1,0 +1,3 @@
+X:/server/cmake-build-debug/CMakeFiles/SocketWrapperCpp.dir
+X:/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

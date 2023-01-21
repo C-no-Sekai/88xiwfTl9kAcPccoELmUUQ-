@@ -1,0 +1,4 @@
+C:/Users/Hp/Documents/GitHub/VirtualBank/cmake-build-debug/CMakeFiles/Server.dir
+C:/Users/Hp/Documents/GitHub/VirtualBank/cmake-build-debug/CMakeFiles/Client.dir
+C:/Users/Hp/Documents/GitHub/VirtualBank/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/Documents/GitHub/VirtualBank/cmake-build-debug/CMakeFiles/rebuild_cache.dir

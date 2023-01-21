@@ -1,0 +1,10 @@
+D:\Study & Shit\Study Stuff\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+D:\Study & Shit\Study Stuff\Project5\x64\Debug\Project5.vcxproj.SuggestedBindingRedirects.cache
+D:\Study & Shit\Study Stuff\Project5\x64\Debug\Project5.exe
+D:\Study & Shit\Study Stuff\Project5\x64\Debug\Project5.MyForm.resources
+D:\Study & Shit\Study Stuff\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\Hp\Documents\GitHub\VirtualBank\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\VirtualBank\Project5\x64\Debug\Project5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Documents\GitHub\VirtualBank\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\Hp\Documents\GitHub\VirtualBank\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\Hp\Documents\GitHub\VirtualBank\Project5\x64\Debug\Project5.exe
