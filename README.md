@@ -1,7 +1,7 @@
 # The Virtual Bank Project
 
 - The repo name translates to Bank, it is encrpyted using the key "gotcha bitch"
-- (88xiwfTl9kAcPccoELmUUQ==) => [gotcha bitch] => (Bank)
+- (88xiwfTl9kAcPccoELmUUQ==) => [gotcha] => (Bank)
 - A similar key based Symmetric Encryption Algorithm is used in this project.
 
 ## Introduction
